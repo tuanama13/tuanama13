@@ -3,5 +3,6 @@
 Hi 🙌 i'am Ama - a Web Developer on **PT. Grha Digital Indonesia as Web-Developer** from Pontianak, Indonesia. I’m currently learning **React, React-Native and Flutter** and try to love **javascript**.
 
 ### 📫 How to reach me
+
 * Email : **tuanama7@gmail.com**
 * Twitter : [@ambrosiusama7](https://twitter.com/ambrosiusama7)
