@@ -1,11 +1,7 @@
-### Hi there 👋 My Name AMA
+## Ambrosius Ama / @tuanama13
 
-<!--
-**tuanama13/tuanama13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+Hi 🙌 i'am Ama - a Web Developer on **PT. Grha Digital Indonesia as Web-Developer** from Pontianak, Indonesia. I’m currently learning **React, React-Native and Flutter** and try to love **javascript**.
 
-- 🔭 I’m currently working on **PT. Grha Digital Indonesia as Web-Developer**
-- 🌱 I’m currently learning **React, React-Native and Flutter**
-- 💬 Ask me about anything 
-- 📫 How to reach me: **ambrosiusama@outlook.com**
+### 📫 How to reach me
+* Email : **ambrosiusama@outlook.com**
+* Twitter : [@ambrosiusama7](https://twitter.com/ambrosiusama7)
