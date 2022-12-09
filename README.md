@@ -9,7 +9,7 @@ Hi 🙌 i'am Ama - a Web Developer on **PT. Grha Digital Indonesia** from Pontia
 * [Email](mailto:tuanama7@gmail.com)
 * [Twitter](https://twitter.com/ambrosiusama7)
 
-### Stack
+### 👩‍💻 Stack
 ![PHP-777BB4](https://user-images.githubusercontent.com/26201178/206603944-28c4e146-4a1b-46ee-a05d-db8b0a5a03d9.svg)
 ![MySQL-005C84](https://user-images.githubusercontent.com/26201178/206603991-60120794-0915-4b8f-a721-80b94d8dac06.svg)
 ![JavaScript-323330](https://user-images.githubusercontent.com/26201178/206604091-28e7176a-f3bd-4aec-a309-33acaddaa560.svg)
