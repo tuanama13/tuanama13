@@ -9,3 +9,6 @@ Hi 🙌 i'am Ama - a Web Developer on **PT. Grha Digital Indonesia** from Pontia
 
 * [Email](mailto:tuanama7@gmail.com)
 * [Twitter](https://twitter.com/ambrosiusama7)
+
+### Language
+![Vue]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D))
