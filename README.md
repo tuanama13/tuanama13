@@ -4,6 +4,8 @@
  -->
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanama13&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanama13&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanama13&theme=default)
 
 Hi 🙌 i'am Ama - a Web Developer on **CU Pancur Kasih** from Pontianak, Indonesia. I’m currently learning **React, React-Native and Flutter** and try to love **javascript**.
 
