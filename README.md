@@ -2,6 +2,9 @@
 [![Ama github stats](https://github-readme-stats.vercel.app/api?username=tuanama13)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanama13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanama13&theme=default)
+
 Hi 🙌 i'am Ama - a Web Developer on **CU Pancur Kasih** from Pontianak, Indonesia. I’m currently learning **React, React-Native and Flutter** and try to love **javascript**.
 
 ### 📫 How to reach me
