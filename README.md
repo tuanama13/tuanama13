@@ -23,3 +23,5 @@ Hi 🙌 i'am Ama - a Web Developer on **CU Pancur Kasih** from Pontianak, Indone
 ![React-20232A](https://user-images.githubusercontent.com/26201178/206604360-700a0eb1-8cc8-49a3-a5b2-b85c81302a63.svg)
 ![Tailwind_CSS-38B2AC](https://user-images.githubusercontent.com/26201178/206604385-aa3f4d90-af0c-4484-bb95-746fe7ebe044.svg)
 ![TypeScript-007ACC](https://user-images.githubusercontent.com/26201178/206604387-50e39988-bb99-4d44-bffe-bfc759655524.svg)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
